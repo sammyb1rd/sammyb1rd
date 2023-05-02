@@ -1,7 +1,6 @@
-- 👋 Hi, I’m Sam Goldenberg, @sammyb1rd
-- 👀 I’m interested in coding, programming, data science/analysis, development, and the whole world of software, etc.
-- 🌱 I’m currently learning Preact, Fresh, Oak, and Deno
-- 💞️ I’m looking to collaborate on open source products.
+- Hi, I’m Sam Goldenberg, @sammyb1rd, a software engineer/developer
+- I’m looking for a new role as software dev
+- I recently worked on Ponder - an open source developer tool to help developers interact with their PostgreSQL databases while using the Deno JS runtime
 
 <!---
 sammyb1rd/sammyb1rd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
